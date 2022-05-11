@@ -5,4 +5,9 @@
 
 -Nether Travel ist nicht erlaubt - du kommst an dem Portal raus, an dem du reingegangen bist
 
-Geld kann man nur in Banken einzahlen = Ohne Stadt ist dies nicht möglich
+-Geld kann man nur in Banken einzahlen = Ohne Stadt ist dies nicht möglich
+
+-Shulker Shell ist craftable
+
+-Piglins nix droppen GNUTS
+
